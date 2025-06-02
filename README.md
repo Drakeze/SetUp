@@ -28,3 +28,7 @@ Getting more Practice of my FrontEnd
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakeze&show_icons=true&locale=en&layout=compact" alt="drakeze" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakeze&" alt="drakeze" /></p>
+
+
+
