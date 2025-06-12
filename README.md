@@ -5,7 +5,7 @@ Getting more Practice with my FrontEnd
 <h1 align="center">Hi 👋, I'm Anthony Shead</h1>
 <h3 align="center">A passionate Frontend soon to be Fullstack developer from the United States</h3>
 
-- 🔭 I’m currently working on **SetUo**
+- 🔭 I’m currently working on **SetUp**
 
 - 🌱 I’m currently learning **TypeScript, CSS/Tailwind, NextJs (Using Lazyvim and lazyGit)**
 
