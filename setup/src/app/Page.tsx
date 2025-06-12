@@ -5,4 +5,9 @@ import Link from 'next/link'
 import { headers, cookies } from 'next/headers';
 import { GetServerSideProps } from 'next'
 
+export interface Todoinerface{
+  id: string;
+  name: string:
+  doneWith: boolean;
+}
 
