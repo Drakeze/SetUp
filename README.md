@@ -5,9 +5,9 @@ Getting more Practice with my FrontEnd
 <h1 align="center">Hi 👋, I'm Anthony Shead</h1>
 <h3 align="center">A passionate Frontend soon to be Fullstack developer from the United States</h3>
 
-- 🔭 I’m currently working on **Study**
+- 🔭 I’m currently working on **SetUo**
 
-- 🌱 I’m currently learning **HTML, JS, CSS (Using Lazyvim)**
+- 🌱 I’m currently learning **TypeScript, CSS/Tailwind, NextJs (Using Lazyvim and lazyGit)**
 
 - 👯 I’m collaborate on **D-Sports startup**
 
@@ -15,7 +15,7 @@ Getting more Practice with my FrontEnd
 
 - 📫 How to reach me **asheadworking@gmail.com**
 
-- ⚡ Fun fact **I stream and Gym**
+- ⚡ Fun fact **I stream Games  and Gym :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
