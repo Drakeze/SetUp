@@ -1,6 +1,6 @@
 imprort react from react
 import {UseState} from react
-import './Layout.tsx'
+import './layout.jsx'
 import Link from 'next/link'
 import { headers, cookies } from 'next/headers';
 import { GetServerSideProps } from 'next'

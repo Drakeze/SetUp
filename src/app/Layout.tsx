@@ -1,6 +1,6 @@
 import react from react
 import {UseState} from react
-import './Page.tsx'
+import './page.jsx'
 import Link from 'next/link'
 import { headers, cookies } from 'next/headers';
 import { GetServerSideProps } from 'next'
