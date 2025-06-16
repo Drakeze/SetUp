@@ -22,7 +22,7 @@ const Checkbox: React.FC<checkBox> = ({ checked, onChange, label, disabled = fal
         checked = {checked}
        onChange={(e) => onChange(e.target.checked)}
        disabled={disabled}
-       // {accentColor} is a JavaScript variable from props that holds the color (green or red) 
+       // {accentColor} is a JavaScript variable from props that holds the color (green or red)  
     className={`w-4 h-4 ${accentColor} cursor-pointer`}
   />
   {label && <span className="text-blue-900">{label}</span>}
