@@ -16,7 +16,12 @@ interface inputPops{
 const Input: React.FC<inputPops> = ({value, onChange, placeholder = '', disabled = false, type = 'text'}) => {
 
   return(
-    
+   <input
+      type={type}
+      value={value}
+      disabled={disabled}
+      placeholder={placeholder}
+      onChange= 
   )
 }
 

@@ -1,7 +1,11 @@
 // src/components/layout/layout.tsx
-import { ReactNode } from 'react';
-import Sidebar from '../ui/Sidebar';
-import Header from '../ui/Header';
+import { ReactNode } from "react";
+import Sidebar from "../ui/Sidebar";
+import Header from "../ui/Header";
+
+interface layoutProp {
+  children: React.ReactNode;
+}
 
 export default function Layout({ children }: { children: ReactNode }) {
   return (
@@ -14,3 +18,4 @@ export default function Layout({ children }: { children: ReactNode }) {
     </div>
   );
 }
+export default Layout;
